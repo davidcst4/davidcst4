@@ -16,8 +16,6 @@ Web Development enthusiast, constantly seeking to improve my skills to create we
 [![tailwindcss-badge](https://img.shields.io/static/v1?message=tailwindcss&logo=tailwindcss&label=&color=06B6D4&logoColor=white&labelColor=&style=for-the-badge)](https://tailwindcss.com/)
 [![javascript-badge](https://img.shields.io/static/v1?message=javascript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 [![typescript-badge](https://img.shields.io/static/v1?message=typescript&logo=typescript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge)](https://www.typescriptlang.org/)
-[![html-badge](https://img.shields.io/static/v1?message=html5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge)](https://developer.mozilla.org/en/docs/Web/HTML)
-[![css-badge](https://img.shields.io/static/v1?message=css3&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge)](https://developer.mozilla.org/en/docs/Web/CSS)
 [![python-badge](https://img.shields.io/static/v1?message=python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge)](https://www.python.org/)
 
 > "Success is the sum of small efforts repeated day after day"
