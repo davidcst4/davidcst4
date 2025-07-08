@@ -5,10 +5,6 @@ Web Developer.
 [![linkedin-badge](https://img.shields.io/static/v1?message=David%20Araujo&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/)
 [![gmail-badge](https://img.shields.io/static/v1?message=davidcst.araujo@gmail.com&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge)](mailto:davidcst.araujo@gmail.com)
 
-## 👨🏾‍💻 About me
-
-Web Development enthusiast, constantly seeking to improve my skills to create web and mobile experiences.
-
 ### 🛠️ Technologies and tools
 
 [![react-badge](https://img.shields.io/static/v1?message=react&logo=react&label=&color=61DAFB&logoColor=000&labelColor=&style=for-the-badge)](https://react.dev/)
