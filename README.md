@@ -2,7 +2,7 @@
 
 Web Developer.
 
-[![linkedin-badge](https://img.shields.io/static/v1?message=David%20Araujo&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/)
+[![linkedin-badge](https://img.shields.io/static/v1?message=David%20Araujo&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/davidcsta)
 [![gmail-badge](https://img.shields.io/static/v1?message=davidcst.araujo@gmail.com&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge)](mailto:davidcst.araujo@gmail.com)
 
 ### 🛠️ Technologies and tools
