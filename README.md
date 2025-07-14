@@ -11,7 +11,7 @@ Web Developer.
 [![tailwindcss-badge](https://img.shields.io/static/v1?message=tailwindcss&logo=tailwindcss&label=&color=06B6D4&logoColor=white&labelColor=&style=for-the-badge)](https://tailwindcss.com/)
 [![javascript-badge](https://img.shields.io/static/v1?message=javascript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 [![typescript-badge](https://img.shields.io/static/v1?message=typescript&logo=typescript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge)](https://www.typescriptlang.org/)
-![nodejs-badge](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)(https://nodejs.org/pt)
+[![nodejs-badge](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
 [![python-badge](https://img.shields.io/static/v1?message=python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge)](https://www.python.org/)
 
 > "Success is the sum of small efforts repeated day after day"
