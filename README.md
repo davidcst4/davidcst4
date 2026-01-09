@@ -27,11 +27,11 @@ I am an **IT Help Desk** and **Full Stack Developer**, passionate about technolo
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/davidcsta/" target="blank">
+<a style="text-decoration: none" href="https://www.linkedin.com/in/davidcsta/" target="blank">
     <img href="" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
     
-<a href="mailto:davidcst.araujo@gmail.com" target="blank">
+<a style="text-decoration: none" href="mailto:davidcst.araujo@gmail.com" target="blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
     
